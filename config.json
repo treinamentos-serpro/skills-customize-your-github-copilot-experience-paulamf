@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "pytest-fastapi-testing",
+      "title": "Testing FastAPI Applications with pytest",
+      "description": "Practice unit and integration testing for a FastAPI task API with pytest and TestClient.",
+      "path": "assignments/pytest-fastapi-testing",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
